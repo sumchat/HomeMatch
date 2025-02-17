@@ -1,66 +1,73 @@
 
 [
-    {
-        "bds": 3,
-        "ba": 2,
-        "sqft": 1500,
-        "price": 1000000,
-        "location": "North Hollywood",
-        "school_rating": 3.8,
-        "description": "The spacious living area features floor-to-ceiling windows, bringing in ample natural light."
-    },
-    {
-        "bds": 4,
-        "ba": 3,
-        "sqft": 2200,
-        "price": 1500000,
-        "location": "Beverly Hills",
-        "school_rating": 4.5,
-        "description": "Luxury living in the heart of Beverly Hills, with modern amenities and stunning views."
-    },
-    {
-        "bds": 2,
-        "ba": 1,
-        "sqft": 1200,
-        "price": 750000,
-        "location": "Santa Monica",
-        "school_rating": 4.0,
-        "description": "Charming beachside condo in Santa Monica, perfect for those seeking a relaxed lifestyle."
-    },
-    {
-        "bds": 5,
-        "ba": 4,
-        "sqft": 3500,
-        "price": 2500000,
-        "location": "Malibu",
-        "school_rating": 4.2,
-        "description": "Experience the epitome of coastal living in this luxurious Malibu estate with private beach access."
-    },
-    {
-        "bds": 3,
-        "ba": 2,
-        "sqft": 1800,
-        "price": 980000,
-        "location": "Pasadena",
-        "school_rating": 4.1,
-        "description": "Classic Pasadena home with a beautiful backyard garden, perfect for outdoor entertaining."
-    },
-    {
-        "bds": 4,
-        "ba": 3,
-        "sqft": 2400,
-        "price": 1350000,
-        "location": "Downtown Los Angeles",
-        "school_rating": 3.7,
-        "description": "Modern urban living in a stylish loft in Downtown LA, close to entertainment and dining options."
-    },
-    {
-        "bds": 5,
-        "ba": 5,
-        "sqft": 5000,
-        "price": 3800000,
-        "location": "Pacific Palisades",
-        "school_rating": 4.8,
-        "description": "Elegant Mediterranean villa in Pacific Palisades, offering resort-style living with ocean views."
-    }
+  {
+    "bds": 4,
+    "ba": 3,
+    "sqft": 2500,
+    "price": 1500000,
+    "location": "Beverly Hills",
+    "school_rating": 4.5,
+    "description": "Luxurious living awaits you in this stunning 4-bedroom, 3-bathroom estate in the prestigious Beverly Hills neighborhood. With high-end finishes throughout, this home features a gourmet kitchen, spacious bedrooms, and a beautifully landscaped backyard with a sparkling pool. Enjoy the ultimate in California luxury living in this Beverly Hills gem.",
+    "neighborhood_description": "Beverly Hills is known for its upscale shopping, dining, and entertainment options. Explore the nearby Rodeo Drive for designer boutiques or dine at world-class restaurants. Experience the glamour and sophistication of Beverly Hills living."
+  },
+  {
+    "bds": 2,
+    "ba": 1,
+    "sqft": 1200,
+    "price": 800000,
+    "location": "Santa Monica",
+    "school_rating": 4.2,
+    "description": "Live the beach life in this charming 2-bedroom, 1-bathroom bungalow located just blocks from the sandy shores of Santa Monica. This cozy home features a bright and airy interior, a private outdoor patio, and easy access to the vibrant Santa Monica Pier and Third Street Promenade. Embrace coastal living in this Santa Monica getaway.",
+    "neighborhood_description": "Santa Monica offers a laid-back coastal lifestyle with a variety of dining, shopping, and outdoor activities. Walk or bike along the beachfront path, explore the Santa Monica Farmers Market, or catch a sunset at the iconic Santa Monica Pier."
+  },
+  {
+    "bds": 5,
+    "ba": 4,
+    "sqft": 3500,
+    "price": 2000000,
+    "location": "Malibu",
+    "school_rating": 4.8,
+    "description": "Escape to paradise in this exquisite 5-bedroom, 4-bathroom Malibu retreat with breathtaking ocean views. The elegant interiors feature high ceilings, designer finishes, and a gourmet kitchen. Step outside to a serene outdoor oasis with a spa, fire pit, and lush landscaping, perfect for entertaining or relaxing in style.",
+    "neighborhood_description": "Malibu is known for its stunning beaches, celebrity homes, and upscale lifestyle. Enjoy surfing, hiking, or dining at world-class restaurants along the picturesque Pacific Coast Highway."
+  },
+  {
+    "bds": 3,
+    "ba": 2,
+    "sqft": 1800,
+    "price": 1200000,
+    "location": "Venice Beach",
+    "school_rating": 4.0,
+    "description": "Experience Venice Beach living in this modern 3-bedroom, 2-bathroom home just steps from the iconic Venice Boardwalk. This sleek residence boasts sleek design elements, an open floor plan, and a rooftop deck with ocean views. Embrace the vibrant energy of Venice Beach in this stylish coastal retreat.",
+    "neighborhood_description": "Venice Beach is a bohemian enclave known for its eclectic mix of artists, musicians, and outdoor enthusiasts. Explore the local artisan shops, grab a bite to eat at a trendy cafe, or immerse yourself in the creative scene along the Venice Boardwalk."
+  },
+  {
+    "bds": 4,
+    "ba": 3,
+    "sqft": 2200,
+    "price": 1300000,
+    "location": "Pasadena",
+    "school_rating": 4.3,
+    "description": "Nestled in the historic city of Pasadena, this charming 4-bedroom, 3-bathroom home exudes classic California charm. Featuring a spacious living room, formal dining area, and a backyard oasis with a pergola-covered patio, this home is perfect for indoor-outdoor living. Enjoy the beauty and tranquility of Pasadena living in this lovely residence.",
+    "neighborhood_description": "Pasadena is known for its tree-lined streets, historic architecture, and cultural attractions. Visit the renowned Norton Simon Museum, explore the beautiful gardens of the Huntington Library, or stroll through Old Town Pasadena for shopping and dining."
+  },
+  {
+    "bds": 3,
+    "ba": 2,
+    "sqft": 1600,
+    "price": 950000,
+    "location": "Silver Lake",
+    "school_rating": 3.9,
+    "description": "Situated in the trendy neighborhood of Silver Lake, this stylish 3-bedroom, 2-bathroom home offers modern living in a vibrant community. The open-concept floor plan features high ceilings, a chef's kitchen, and a private backyard oasis. Enjoy the hip and eclectic ambiance of Silver Lake in this contemporary residence.",
+    "neighborhood_description": "Silver Lake is known for its artistic vibe, trendy eateries, and picturesque reservoir. Explore the local boutiques, grab a coffee at a cozy cafe, or take a scenic hike around the iconic Silver Lake Reservoir."
+  },
+  {
+    "bds": 2,
+    "ba": 2,
+    "sqft": 1400,
+    "price": 750000,
+    "location": "West Hollywood",
+    "school_rating": 4.1,
+    "description": "Live the West Hollywood lifestyle in this 2-bedroom, 2-bathroom condo located in the heart of the Sunset Strip. The unit features a modern design, sleek finishes, and a spacious balcony with city views. Experience the vibrant energy and nightlife of West Hollywood in this chic urban retreat.",
+    "neighborhood_description": "West Hollywood is a trendy neighborhood known for its nightlife, dining, and entertainment options. Stroll along the Sunset Strip, dine at celebrity hotspots, or shop at upscale boutiques on Melrose Avenue."
+  }
 ]
