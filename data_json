@@ -1,0 +1,66 @@
+
+[
+    {
+        "bds": 3,
+        "ba": 2,
+        "sqft": 1500,
+        "price": 1000000,
+        "location": "North Hollywood",
+        "school_rating": 3.8,
+        "description": "The spacious living area features floor-to-ceiling windows, bringing in ample natural light."
+    },
+    {
+        "bds": 4,
+        "ba": 3,
+        "sqft": 2200,
+        "price": 1500000,
+        "location": "Beverly Hills",
+        "school_rating": 4.5,
+        "description": "Luxury living in the heart of Beverly Hills, with modern amenities and stunning views."
+    },
+    {
+        "bds": 2,
+        "ba": 1,
+        "sqft": 1200,
+        "price": 750000,
+        "location": "Santa Monica",
+        "school_rating": 4.0,
+        "description": "Charming beachside condo in Santa Monica, perfect for those seeking a relaxed lifestyle."
+    },
+    {
+        "bds": 5,
+        "ba": 4,
+        "sqft": 3500,
+        "price": 2500000,
+        "location": "Malibu",
+        "school_rating": 4.2,
+        "description": "Experience the epitome of coastal living in this luxurious Malibu estate with private beach access."
+    },
+    {
+        "bds": 3,
+        "ba": 2,
+        "sqft": 1800,
+        "price": 980000,
+        "location": "Pasadena",
+        "school_rating": 4.1,
+        "description": "Classic Pasadena home with a beautiful backyard garden, perfect for outdoor entertaining."
+    },
+    {
+        "bds": 4,
+        "ba": 3,
+        "sqft": 2400,
+        "price": 1350000,
+        "location": "Downtown Los Angeles",
+        "school_rating": 3.7,
+        "description": "Modern urban living in a stylish loft in Downtown LA, close to entertainment and dining options."
+    },
+    {
+        "bds": 5,
+        "ba": 5,
+        "sqft": 5000,
+        "price": 3800000,
+        "location": "Pacific Palisades",
+        "school_rating": 4.8,
+        "description": "Elegant Mediterranean villa in Pacific Palisades, offering resort-style living with ocean views."
+    }
+]
